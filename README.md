@@ -1,2 +1,5 @@
 # jenkins
-Vagrantfile to spinup jenkins project
+Vagrantfile to spinup a jenkins project
+you can use vagrantfile:
+vagrant up command
+
